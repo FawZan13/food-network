@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+    font-family: 'Rubik', sans-serif;
+}
+header{
+    padding-top: 20px;
+    text-align: center;
+    background-color: orange;
+    padding-bottom: 20px;
+}
+header a{
+    text-decoration: none;
+    padding-right: 10%;
+    padding-left: 10%;
+    color: white;
+}
+h1{
+    font-size: 40px;
+    font-weight: 700;
+    color: dimgray;
+}
+h2{
+    font-size:30px;
+    color: gray;
+}
+.flexible{
+    display: flex;
+    margin-bottom: 180px;
+}
+.half-width{
+    width:50%;  
+}
+.write{
+    margin-top: 90px;
+    padding-left: 7%;
+}
+.orange{
+    color: orange;
+}
+.link{
+    text-decoration: none;
+    border-radius: 50px;
+    color: white;
+    background-image: linear-gradient(orange,orangered);
+    padding: 15px 35px;   
+}
+.first-para{
+    color: gray;
+    margin-bottom: 50px;
+}
+.half-width img{
+    width: 90%;
+}
+.second-para{
+    margin-bottom: 70px;
+}
+.left-image img{
+    width: 60%;
+    margin-left: 110px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.two{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.right{
+    width:60%;
+    margin-top: 90px;
+}
+.self{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+}
+.center{
+    text-align: center;
+}
+.item{
+    width: 33%;
+    padding:20px;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gainsboro;
+}
+.item img{
+    width: 100%;
+    margin-bottom: 15px;
+}
+#first-item{
+    margin-left: 4%;
+}
+#last-item{
+    margin-right: 4%;
+}
+.box{
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gainsboro;
+    margin-right: 7%;
+    margin-left: 7%;
+}
+.txt1{
+    padding-right: 5%;
+    padding-left: 15%;
+}
+.txt2{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.txt3{
+    padding-left: 5%;
+    padding-right: 15%;
+}
+footer{
+    background-color:#1e272e;
+    padding-top: 25px;
+    padding-bottom: 70px;
+}
+footer h3{
+    color: gray;
+}
